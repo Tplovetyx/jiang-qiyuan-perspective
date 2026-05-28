@@ -200,22 +200,7 @@ jiang-qiyuan-perspective/
     └── sources/                       # 原始资料来源
 ```
 
----
 
-## 更多.skill
-
-女娲已蒸馏的其他人物，每个都可独立安装：
-
-| 人物 | 领域 | 安装 |
-|------|------|------|
-| [Karpathy.skill](https://github.com/Tplovetyx/karpathy-skill) | 深度学习/AI工程 | `npx skills add Tplovetyx/karpathy-skill` |
-| [芒格.skill](https://github.com/Tplovetyx/munger-skill) | 投资/多元思维 | `npx skills add Tplovetyx/munger-skill` |
-| [费曼.skill](https://github.com/Tplovetyx/feynman-skill) | 学习/教学/科学思维 | `npx skills add Tplovetyx/feynman-skill` |
-| [Dantzig.skill](https://github.com/Tplovetyx/dantzig-skill) | 运筹学/优化建模 | `npx skills add Tplovetyx/dantzig-skill` |
-
-想蒸馏更多人？用 [女娲.skill](https://github.com/Tplovetyx/nuwa-skill)，输入任何名字即可。
-
----
 
 ## 许可证
 
@@ -227,6 +212,3 @@ MIT — 随便用，随便改，随便蒸馏。
 
 *Gradient descent can write code better than you. I'm sorry.* ← 这是Karpathy说的，不是姜启源说的。
 
-Made with [女娲.skill](https://github.com/Tplovetyx/nuwa-skill)
-
-MIT License © [花叔 Huashu](https://github.com/Tplovetyx)
