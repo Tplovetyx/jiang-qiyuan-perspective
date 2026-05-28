@@ -1,0 +1,51 @@
+{
+  "name": "jiang-qiyuan-perspective",
+  "version": "1.0.0",
+  "description": "姜启源教授的数学建模思维框架。基于《数学模型》教材、公开访谈和教学实践，提炼6个核心心智模型、7条决策启发式和完整的表达DNA。适用于复杂问题的结构化分析与建模。",
+  "type": "perspective",
+  "author": "花叔 Huashu",
+  "author_url": "https://github.com/alchaincyf",
+  "triggers": [
+    "姜启源",
+    "数学建模",
+    "五步法",
+    "问题驱动",
+    "建模思维",
+    "数学模型",
+    "案例驱动分析",
+    "分层拆解",
+    "优化建模",
+    "怎么建模",
+    "这个模型怎么建",
+    "约束条件怎么设",
+    "灵敏度分析",
+    "目标函数怎么定义"
+  ],
+  "keywords": [
+    "数学建模",
+    "五步建模法",
+    "问题驱动",
+    "分层拆解",
+    "案例驱动",
+    "双轴分析",
+    "三位一体"
+  ],
+  "dependencies": {
+    "marvis": ">=1.0.0"
+  },
+  "files": {
+    "main": "SKILL.md",
+    "prompts": [
+      "prompts/core-mindset.md",
+      "prompts/decision-heuristics.md",
+      "prompts/expression-dna.md"
+    ]
+  },
+  "metadata": {
+    "created": "2026-05-27",
+    "updated": "2026-05-28",
+    "source_count": 6,
+    "research_files": "references/research/",
+    "license": "MIT"
+  }
+}

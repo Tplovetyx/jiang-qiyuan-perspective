@@ -1,0 +1,44 @@
+{
+  "name": "jiang-qiyuan-perspective",
+  "version": "1.0.0",
+  "description": "姜启源教授的数学建模思维框架 Skill。基于《数学模型》教材、公开访谈和教学实践，提炼6个核心心智模型、7条决策启发式。适用于复杂问题的结构化分析与建模。",
+  "type": "module",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "mathematical-modeling",
+    "problem-driven",
+    "five-step-modeling",
+    "hierarchical-decomposition",
+    "case-driven",
+    "dual-axis-analysis",
+    "marvis-skill",
+    "person-skill",
+    "jiang-qiyuan"
+  ],
+  "author": "花叔 Huashu (https://github.com/alchaincyf)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alchaincyf/jiang-qiyuan-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alchaincyf/jiang-qiyuan-skill/issues"
+  },
+  "homepage": "https://github.com/alchaincyf/jiang-qiyuan-skill#readme",
+  "marvis": {
+    "skillType": "perspective",
+    "triggerWords": [
+      "姜启源",
+      "数学建模",
+      "五步法",
+      "问题驱动",
+      "建模思维"
+    ],
+    "dependencies": {
+      "marvis": ">=1.0.0"
+    }
+  }
+}
