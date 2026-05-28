@@ -178,23 +178,6 @@ npx skills add huashu-ai/jiang-qiyuan-perspective
 学术同行评价 · MCM/ICM竞赛评审记录 · 教学反馈与学生学习体会
 
 ---
-
-## 这个Skill是怎么造出来的
-
-由 [女娲.skill](https://github.com/Tplovetyx/nuwa-skill) 自动生成。
-
-女娲的工作流程：输入一个名字 → 6个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证（3个已知测试 + 1个边缘测试 + 风格测试）。
-
-想蒸馏其他人？安装女娲：
-
-```bash
-npx skills add Tplovetyx/nuwa-skill
-```
-
-然后说「蒸馏一个XXX」就行了。
-
----
-
 ## 仓库结构
 
 ```
@@ -240,17 +223,7 @@ MIT — 随便用，随便改，随便蒸馏。
 
 ---
 
-## 关于作者
 
-**花叔 Huashu** — AI Native Coder，独立开发者
-
-| 平台 | 链接 |
-|------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
-
----
 
 *Gradient descent can write code better than you. I'm sorry.* ← 这是Karpathy说的，不是姜启源说的。
 
