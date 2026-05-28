@@ -181,14 +181,14 @@ npx skills add huashu-ai/jiang-qiyuan-perspective
 
 ## 这个Skill是怎么造出来的
 
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
+由 [女娲.skill](https://github.com/Tplovetyx/nuwa-skill) 自动生成。
 
 女娲的工作流程：输入一个名字 → 6个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证（3个已知测试 + 1个边缘测试 + 风格测试）。
 
 想蒸馏其他人？安装女娲：
 
 ```bash
-npx skills add alchaincyf/nuwa-skill
+npx skills add Tplovetyx/nuwa-skill
 ```
 
 然后说「蒸馏一个XXX」就行了。
@@ -225,12 +225,12 @@ jiang-qiyuan-perspective/
 
 | 人物 | 领域 | 安装 |
 |------|------|------|
-| [Karpathy.skill](https://github.com/alchaincyf/karpathy-skill) | 深度学习/AI工程 | `npx skills add alchaincyf/karpathy-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [Dantzig.skill](https://github.com/alchaincyf/dantzig-skill) | 运筹学/优化建模 | `npx skills add alchaincyf/dantzig-skill` |
+| [Karpathy.skill](https://github.com/Tplovetyx/karpathy-skill) | 深度学习/AI工程 | `npx skills add Tplovetyx/karpathy-skill` |
+| [芒格.skill](https://github.com/Tplovetyx/munger-skill) | 投资/多元思维 | `npx skills add Tplovetyx/munger-skill` |
+| [费曼.skill](https://github.com/Tplovetyx/feynman-skill) | 学习/教学/科学思维 | `npx skills add Tplovetyx/feynman-skill` |
+| [Dantzig.skill](https://github.com/Tplovetyx/dantzig-skill) | 运筹学/优化建模 | `npx skills add Tplovetyx/dantzig-skill` |
 
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
+想蒸馏更多人？用 [女娲.skill](https://github.com/Tplovetyx/nuwa-skill)，输入任何名字即可。
 
 ---
 
@@ -254,6 +254,6 @@ MIT — 随便用，随便改，随便蒸馏。
 
 *Gradient descent can write code better than you. I'm sorry.* ← 这是Karpathy说的，不是姜启源说的。
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+Made with [女娲.skill](https://github.com/Tplovetyx/nuwa-skill)
 
-MIT License © [花叔 Huashu](https://github.com/alchaincyf)
+MIT License © [花叔 Huashu](https://github.com/Tplovetyx)

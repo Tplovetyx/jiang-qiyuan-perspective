@@ -18,16 +18,16 @@
     "person-skill",
     "jiang-qiyuan"
   ],
-  "author": "花叔 Huashu (https://github.com/alchaincyf)",
+  "author": "花叔 Huashu (https://github.com/Tplovetyx)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alchaincyf/jiang-qiyuan-skill.git"
+    "url": "https://github.com/Tplovetyx/jiang-qiyuan-perspective.git"
   },
   "bugs": {
-    "url": "https://github.com/alchaincyf/jiang-qiyuan-skill/issues"
+    "url": "https://github.com/Tplovetyx/jiang-qiyuan-perspective/issues"
   },
-  "homepage": "https://github.com/alchaincyf/jiang-qiyuan-skill#readme",
+  "homepage": "https://github.com/Tplovetyx/jiang-qiyuan-perspective#readme",
   "marvis": {
     "skillType": "perspective",
     "triggerWords": [
